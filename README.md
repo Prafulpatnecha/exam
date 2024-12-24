@@ -5,7 +5,7 @@
 <h1></h1>
 <h3 align="center"><i>Api PHP CRUD Opration</i></h3>
 <h1></h1>
-<div align="center">
+<div>
 
 ## **Question: Develop a PHP API with CRUD Operations**
 
